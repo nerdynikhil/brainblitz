@@ -1,4 +1,4 @@
-package tech.nerdynikhil.brainblitz;
+package tech.nerdynikhil.brainblitz.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
